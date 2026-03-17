@@ -247,9 +247,6 @@ GFG_Hackfest/
 ├── database/
 │   ├── init.sql
 │   └── sample_data.sql
-│
-├── tests/
-├── docker-compose.yml
 ├── .gitignore
 └── README.md
 ```
